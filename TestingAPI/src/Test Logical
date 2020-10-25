@@ -1,0 +1,27 @@
+TEST LOGIC
+
+1. 1 kali timbangan 
+Penjelasan : 
+1. 9 tas dibagi menjadi 2 dan disisahkan 1 tas menjadi 8 tas dibagi 2 menjadi masing masing 4tas .
+2. Tas yang sudah dibagi 2 kemudian digabungkan isinya masing masing kedalam 1 tas.
+3. Kemudian setelah tas yang telah dibagi menjadi 2 digabungkan isinya kedalam 1 tas, masukan masing - masing tas kedalam timbangan.
+4. Sekarang timbangan sudah berisi 2 tas,tas 1 di timbangan kiri 1 tas yang sudah digabungkan isinya dari 4 tas dan tas 2 di timbangan kanan 1 tas yang sudah digabungkan isinya dari 4 tas
+5. Jika timbangan kiri lebih berat maka, tas 2 lah yang berisi tas berisikan 9 koin.
+6. Jika timbangan kanan lebih berat maka, tas 1 lah yang berisi tas berisikan 9 koin.
+7. Dan jika timbangan seimbang, maka tas yang disisahkan lah yang berisikan 9 koin. 
+
+2.10L | 7L | 3L
+   5  |  5 | 0
+   3  |  1 | 3
+   2  |  1 | 0
+  ___   ___   ___
+  10     7     3
+Penjelasan :
+1. Masing masing kaleng susu memiliki 10L, 7L, 3L
+2. Ada 3 kendi berisi masing masing 10L, 7L, 3L,
+3. tahap pertama pengisian kendi 10L, untuk susu 10L yang dibagi menjadi 2 yaitu 5L ke kendi 10L, 5L ke kendi 7L
+4. Susu 10L sudah habis, berarti lanjut ke susu 7L, untuk susu 7L kita bagi lagi menjadi 2 yaitu 3L ke l0L, 3L ke 3L, dan sisa 1L ke 7L.\
+5. Selanjutnya susu 3L, kita lihat susu yang telah dimasukan kemasing masing kendi 
+6. 10L = 5+3 = 8L, 7L = 5+1 = 6L, 3L = 0+3 = 3L
+7. Kita masukan susu 3L ke masing masing kendi yang masih tersisa kapasitasnya 
+  
