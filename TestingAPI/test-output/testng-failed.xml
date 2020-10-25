@@ -3,11 +3,11 @@
 <suite parallel="none" name="Failed suite [Default suite]">
   <test parallel="none" name="Default test(failed)">
     <classes>
-      <class name="TestingAPI.TestingAPI.Put">
+      <class name="JsonTesting.CreateJson">
         <methods>
-          <include name="putAPI"/>
+          <include name="main"/>
         </methods>
-      </class> <!-- TestingAPI.TestingAPI.Put -->
+      </class> <!-- JsonTesting.CreateJson -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
